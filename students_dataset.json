@@ -1,0 +1,523 @@
+[
+[
+  {
+    "name": "Aarav Sharma",
+    "age": 20,
+    "course": "BCA",
+    "address": {
+      "city": "Lucknow",
+      "state": "Uttar Pradesh"
+    },
+    "marks": 82
+  },
+  {
+    "name": "Riya Verma",
+    "age": 19,
+    "course": "BCA",
+    "address": {
+      "city": "Kanpur",
+      "state": "Uttar Pradesh"
+    },
+    "marks": 76
+  },
+  {
+    "name": "Aditya Singh",
+    "age": 21,
+    "course": "BTech",
+    "address": {
+      "city": "Delhi",
+      "state": "Delhi"
+    },
+    "marks": 88
+  },
+  {
+    "name": "Ananya Gupta",
+    "age": 20,
+    "course": "BSc",
+    "address": {
+      "city": "Lucknow",
+      "state": "Uttar Pradesh"
+    },
+    "marks": 91
+  },
+  {
+    "name": "Rahul Mishra",
+    "age": 22,
+    "course": "BCA",
+    "address": {
+      "city": "Prayagraj",
+      "state": "Uttar Pradesh"
+    },
+    "marks": 69
+  },
+  {
+    "name": "Priya Yadav",
+    "age": 19,
+    "course": "BBA",
+    "address": {
+      "city": "Agra",
+      "state": "Uttar Pradesh"
+    },
+    "marks": 84
+  },
+  {
+    "name": "Arjun Kumar",
+    "age": 21,
+    "course": "BTech",
+    "address": {
+      "city": "Noida",
+      "state": "Uttar Pradesh"
+    },
+    "marks": 73
+  },
+  {
+    "name": "Sneha Patel",
+    "age": 20,
+    "course": "BCA",
+    "address": {
+      "city": "Ahmedabad",
+      "state": "Gujarat"
+    },
+    "marks": 87
+  },
+  {
+    "name": "Karan Mehta",
+    "age": 22,
+    "course": "BCom",
+    "address": {
+      "city": "Jaipur",
+      "state": "Rajasthan"
+    },
+    "marks": 71
+  },
+  {
+    "name": "Ishita Agarwal",
+    "age": 19,
+    "course": "BSc",
+    "address": {
+      "city": "Delhi",
+      "state": "Delhi"
+    },
+    "marks": 93
+  },
+  {
+    "name": "Rohan Saxena",
+    "age": 20,
+    "course": "BCA",
+    "address": {
+      "city": "Lucknow",
+      "state": "Uttar Pradesh"
+    },
+    "marks": 79
+  },
+  {
+    "name": "Neha Tiwari",
+    "age": 21,
+    "course": "BBA",
+    "address": {
+      "city": "Varanasi",
+      "state": "Uttar Pradesh"
+    },
+    "marks": 86
+  },
+  {
+    "name": "Vivek Joshi",
+    "age": 22,
+    "course": "BTech",
+    "address": {
+      "city": "Bhopal",
+      "state": "Madhya Pradesh"
+    },
+    "marks": 74
+  },
+  {
+    "name": "Simran Kaur",
+    "age": 20,
+    "course": "BCom",
+    "address": {
+      "city": "Chandigarh",
+      "state": "Chandigarh"
+    },
+    "marks": 89
+  },
+  {
+    "name": "Mohit Sharma",
+    "age": 21,
+    "course": "BCA",
+    "address": {
+      "city": "Meerut",
+      "state": "Uttar Pradesh"
+    },
+    "marks": 68
+  },
+  {
+    "name": "Kavya Nair",
+    "age": 19,
+    "course": "BSc",
+    "address": {
+      "city": "Kochi",
+      "state": "Kerala"
+    },
+    "marks": 95
+  },
+  {
+    "name": "Aman Khan",
+    "age": 20,
+    "course": "BCA",
+    "address": {
+      "city": "Lucknow",
+      "state": "Uttar Pradesh"
+    },
+    "marks": 81
+  },
+  {
+    "name": "Pooja Singh",
+    "age": 22,
+    "course": "BBA",
+    "address": {
+      "city": "Patna",
+      "state": "Bihar"
+    },
+    "marks": 77
+  },
+  {
+    "name": "Yash Raj",
+    "age": 21,
+    "course": "BTech",
+    "address": {
+      "city": "Ranchi",
+      "state": "Jharkhand"
+    },
+    "marks": 90
+  },
+  {
+    "name": "Nisha Kapoor",
+    "age": 20,
+    "course": "BCom",
+    "address": {
+      "city": "Delhi",
+      "state": "Delhi"
+    },
+    "marks": 83
+  },
+  {
+    "name": "Dev Patel",
+    "age": 19,
+    "course": "BCA",
+    "address": {
+      "city": "Surat",
+      "state": "Gujarat"
+    },
+    "marks": 72
+  },
+  {
+    "name": "Meera Iyer",
+    "age": 21,
+    "course": "BSc",
+    "address": {
+      "city": "Chennai",
+      "state": "Tamil Nadu"
+    },
+    "marks": 94
+  },
+  {
+    "name": "Sahil Gupta",
+    "age": 22,
+    "course": "BCA",
+    "address": {
+      "city": "Kanpur",
+      "state": "Uttar Pradesh"
+    },
+    "marks": 67
+  },
+  {
+    "name": "Tanya Malhotra",
+    "age": 20,
+    "course": "BBA",
+    "address": {
+      "city": "Jaipur",
+      "state": "Rajasthan"
+    },
+    "marks": 88
+  },
+  {
+    "name": "Akash Verma",
+    "age": 21,
+    "course": "BTech",
+    "address": {
+      "city": "Noida",
+      "state": "Uttar Pradesh"
+    },
+    "marks": 80
+  },
+  {
+    "name": "Shreya Das",
+    "age": 19,
+    "course": "BCA",
+    "address": {
+      "city": "Kolkata",
+      "state": "West Bengal"
+    },
+    "marks": 92
+  },
+  {
+    "name": "Manish Kumar",
+    "age": 22,
+    "course": "BCom",
+    "address": {
+      "city": "Patna",
+      "state": "Bihar"
+    },
+    "marks": 65
+  },
+  {
+    "name": "Diya Sharma",
+    "age": 20,
+    "course": "BSc",
+    "address": {
+      "city": "Lucknow",
+      "state": "Uttar Pradesh"
+    },
+    "marks": 85
+  },
+  {
+    "name": "Harsh Vardhan",
+    "age": 21,
+    "course": "BCA",
+    "address": {
+      "city": "Agra",
+      "state": "Uttar Pradesh"
+    },
+    "marks": 78
+  },
+  {
+    "name": "Muskan Ali",
+    "age": 19,
+    "course": "BBA",
+    "address": {
+      "city": "Delhi",
+      "state": "Delhi"
+    },
+    "marks": 91
+  },
+  {
+    "name": "Nikhil Jain",
+    "age": 22,
+    "course": "BTech",
+    "address": {
+      "city": "Indore",
+      "state": "Madhya Pradesh"
+    },
+    "marks": 75
+  },
+  {
+    "name": "Aditi Singh",
+    "age": 20,
+    "course": "BCA",
+    "address": {
+      "city": "Varanasi",
+      "state": "Uttar Pradesh"
+    },
+    "marks": 89
+  },
+  {
+    "name": "Raj Malhotra",
+    "age": 21,
+    "course": "BCom",
+    "address": {
+      "city": "Delhi",
+      "state": "Delhi"
+    },
+    "marks": 70
+  },
+  {
+    "name": "Sakshi Gupta",
+    "age": 19,
+    "course": "BSc",
+    "address": {
+      "city": "Kanpur",
+      "state": "Uttar Pradesh"
+    },
+    "marks": 96
+  },
+  {
+    "name": "Varun Singh",
+    "age": 22,
+    "course": "BCA",
+    "address": {
+      "city": "Lucknow",
+      "state": "Uttar Pradesh"
+    },
+    "marks": 73
+  },
+  {
+    "name": "Isha Kapoor",
+    "age": 20,
+    "course": "BBA",
+    "address": {
+      "city": "Chandigarh",
+      "state": "Chandigarh"
+    },
+    "marks": 87
+  },
+  {
+    "name": "Ritesh Yadav",
+    "age": 21,
+    "course": "BTech",
+    "address": {
+      "city": "Gurugram",
+      "state": "Haryana"
+    },
+    "marks": 82
+  },
+  {
+    "name": "Komal Mishra",
+    "age": 19,
+    "course": "BCA",
+    "address": {
+      "city": "Prayagraj",
+      "state": "Uttar Pradesh"
+    },
+    "marks": 79
+  },
+  {
+    "name": "Abhishek Roy",
+    "age": 22,
+    "course": "BCom",
+    "address": {
+      "city": "Kolkata",
+      "state": "West Bengal"
+    },
+    "marks": 66
+  },
+  {
+    "name": "Navya Joshi",
+    "age": 20,
+    "course": "BSc",
+    "address": {
+      "city": "Bhopal",
+      "state": "Madhya Pradesh"
+    },
+    "marks": 90
+  },
+  {
+    "name": "Ravi Kumar",
+    "age": 21,
+    "course": "BCA",
+    "address": {
+      "city": "Patna",
+      "state": "Bihar"
+    },
+    "marks": 74
+  },
+  {
+    "name": "Anjali Mehta",
+    "age": 19,
+    "course": "BBA",
+    "address": {
+      "city": "Ahmedabad",
+      "state": "Gujarat"
+    },
+    "marks": 86
+  },
+  {
+    "name": "Saurabh Singh",
+    "age": 22,
+    "course": "BTech",
+    "address": {
+      "city": "Lucknow",
+      "state": "Uttar Pradesh"
+    },
+    "marks": 92
+  },
+  {
+    "name": "Palak Sharma",
+    "age": 20,
+    "course": "BCA",
+    "address": {
+      "city": "Jaipur",
+      "state": "Rajasthan"
+    },
+    "marks": 81
+  },
+  {
+    "name": "Gaurav Agarwal",
+    "age": 21,
+    "course": "BCom",
+    "address": {
+      "city": "Agra",
+      "state": "Uttar Pradesh"
+    },
+    "marks": 69
+  },
+  {
+    "name": "Ayesha Khan",
+    "age": 19,
+    "course": "BSc",
+    "address": {
+      "city": "Delhi",
+      "state": "Delhi"
+    },
+    "marks": 93
+  },
+  {
+    "name": "Kunal Verma",
+    "age": 22,
+    "course": "BCA",
+    "address": {
+      "city": "Meerut",
+      "state": "Uttar Pradesh"
+    },
+    "marks": 76
+  },
+  {
+    "name": "Mansi Tiwari",
+    "age": 20,
+    "course": "BBA",
+    "address": {
+      "city": "Varanasi",
+      "state": "Uttar Pradesh"
+    },
+    "marks": 84
+  },
+  {
+    "name": "Raghav Gupta",
+    "age": 21,
+    "course": "BTech",
+    "address": {
+      "city": "Noida",
+      "state": "Uttar Pradesh"
+    },
+    "marks": 89
+  },
+  {
+    "name": "Tanvi Singh",
+    "age": 19,
+    "course": "BCA",
+    "address": {
+      "city": "Lucknow",
+      "state": "Uttar Pradesh"
+    },
+    "marks": 80
+  },
+  {
+    "name": "Amit Sharma",
+    "age": 22,
+    "course": "BCom",
+    "address": {
+      "city": "Kanpur",
+      "state": "Uttar Pradesh"
+    },
+    "marks": 71
+  },
+  {
+    "name": "Sonia Verma",
+    "age": 20,
+    "course": "BSc",
+    "address": {
+      "city": "Chennai",
+      "state": "Tamil Nadu"
+    },
+    "marks": 95
+  }
+]
