@@ -34,9 +34,13 @@ The practical focuses on performing CRUD operations and using MongoDB features s
 
 The practical uses a dataset consisting of **50 student records**. The dataset is used to demonstrate the different MongoDB queries and operations included in this project.
 
+📂 [View the 50 Student Dataset](./students_dataset.json)
+
 ## Report
 
 The detailed report contains the MongoDB queries/operations performed along with screenshots of the corresponding outputs.
+
+📄 [View the MongoDB CRUD Operations Report](./NoSQL_MongoDB_Project_Report_Joanna.pdf)
 
 ## Tools & Technologies
 
